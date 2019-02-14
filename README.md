@@ -14,7 +14,7 @@
 - Find keyboard key codes easily,  [Key Code Info](http://keycode.info/)
 - Viewport = browser window size
 - [HTML Data-* Attributes `data-key`](https://www.w3schools.com/tags/att_global_data.asp) "The data-* attributes is used to store custom data private to the page or application."
-
+- KeyboardEvent.keyCode, `e.keyCode` is depreciated, [KeyboardEvent.keyCode](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode)
 
 ## Sources
 
@@ -26,4 +26,6 @@
 - [CSS `flex` Property](https://www.w3schools.com/cssref/css3_pr_flex.asp)
 - [CSS `display: flex` Property](https://www.w3schools.com/CSSref/pr_class_display.asp)
 - [CSS Transistions](https://www.w3schools.com/css/css3_transitions.asp)
-
+- [HTML DOM addEventListener() Method](https://www.w3schools.com/jsref/met_document_addeventlistener.asp)
+- [JavaScript HTML DOM EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp)
+- [Keyboard Event keyCode Property](https://www.w3schools.com/jsref/event_key_keycode.asp)
