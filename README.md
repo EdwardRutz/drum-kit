@@ -1,6 +1,7 @@
 # JavaScript Drum Kit
 
 > Turn a keyboard into a drum machine
+> - Pressing a key plays a drum noise and shows a key animation.
 > - [Wes Bos: JavaScript30](https://javascript30.com/)
 
 
@@ -24,4 +25,5 @@
 - [CSS Units, Relative Length, Viewport, `vh`](https://www.w3schools.com/CSSref/css_units.asp)
 - [CSS `flex` Property](https://www.w3schools.com/cssref/css3_pr_flex.asp)
 - [CSS `display: flex` Property](https://www.w3schools.com/CSSref/pr_class_display.asp)
+- [CSS Transistions](https://www.w3schools.com/css/css3_transitions.asp)
 
