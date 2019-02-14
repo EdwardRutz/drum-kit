@@ -1,6 +1,33 @@
 
 html {
     font-size: 10px;
-    background: url("img/stadium-fans.jpg");
+    /*background: url("img/stadium-fans.jpg");*/
     background-size: cover;
+}
+
+.drum-keys {
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex: 1;
+    /*background-color: gainsboro;*/
+}
+
+.key {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+kbd {
+    display: block;
+    font-size: 4rem;
+}
+
+.sound {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+    color: #ffc600;
 }
