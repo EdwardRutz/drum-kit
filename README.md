@@ -2,10 +2,11 @@
 
 > Turn a keyboard into a drum machine
 > - Pressing a key plays a drum noise and shows a key animation.
-> - [Wes Bos: JavaScript30](https://javascript30.com/)
 
 
 
+
+## Install & Run
 
 
 
@@ -18,6 +19,7 @@
 
 ## Sources
 
+> - From [Wes Bos: JavaScript30](https://javascript30.com/)
 - [Viewport Meta Tag](https://www.w3schools.com/css/css_rwd_viewport.asp)  `<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 - The X-UA-Compatible tag is not needed unless dealing with older versions of IE, `<meta http-equiv="X-UA-Compatible" content="ie=edge">`
 - [Using the X-UA-Compatible tag](https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do)
